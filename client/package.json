@@ -1,0 +1,20 @@
+{
+  "name": "bitbank-client",
+  "version": "1.0.0",
+  "description": "Client-side directory structure for BitBank banking & stock trading platform",
+  "homepage": "https://github.com/omarC04/bitbank#readme",
+  "bugs": {
+    "url": "https://github.com/omarC04/bitbank/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omarC04/bitbank.git"
+  },
+  "license": "MIT",
+  "author": "Omar C.",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
